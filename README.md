@@ -26,7 +26,7 @@ Computer Science · Low-level systems · Applied cryptography
 
 *   **Veilid Marketplace** – Decentralized sealed-bid auction platform built on [Veilid](https://veilid.com/). Uses secure multi-party computation (MP-SPDZ) for privacy-preserving winner determination — bids remain private, only the winner is revealed. Rust + Dioxus. 3rd-year dissertation.
 
-*   **EE8 8-bit CPU** – Educational RISC-V processor designed for EE undergraduates. Custom ISA with 16-bit instruction words, 4 registers, two's complement arithmetic. Implemented in VHDL and Logisim. Includes full spec in LaTeX (private repo until the coursework submission date, sorry!)
+*   **EE8 8-bit CPU** – Educational RISC-V processor designed for EE undergraduates. Custom ISA with 16-bit instruction words, 4 registers, two's complement arithmetic. Implemented in VHDL and Logisim. Includes full spec in LaTeX (private repo until the students have their coursework submission date, sorry!)
 
 *   **ESP32-S3 Display** – Low-level driver work for high-resolution touch interfaces. RGB565 buffering, DMA transfers, custom rendering pipeline.
 
