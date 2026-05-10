@@ -13,16 +13,14 @@
   ![Assembly](https://img.shields.io/badge/Assembly-%232E3440.svg?style=flat-square)
   ![VHDL](https://img.shields.io/badge/VHDL-%232E3440.svg?style=flat-square)
 
+  
   **Embedded & Infrastructure**
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-  ![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=flat-square&logo=espressif&logoColor=wh
-  ite)
-  ![FPGA](https://img.shields.io/badge/FPGA-%2300599C.svg?style=flat-square&logo=xilinx&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=whi
-  te)
-  ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&lo
-  goColor=white)
 
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=flat-square&logo=espressif&logoColor=white)
+  ![FPGA](https://img.shields.io/badge/FPGA-%2300599C.svg?style=flat-square&logo=xilinx&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+  ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
   ---
 
   ### Selected Work
